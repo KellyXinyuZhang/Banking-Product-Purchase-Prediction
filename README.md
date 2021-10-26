@@ -14,5 +14,5 @@ Models performed
 ----------------------
   - Exploratory data analysis
   - Logistic regression
-  - Random forrest
+  - Random forest
   - Gardient Boosting Machine
