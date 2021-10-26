@@ -5,9 +5,9 @@ This project utilizes a dataset collected from a Portugese banking institution. 
 
 Files included
 ----------------------
-  - Original dataset        bank-full.csv
-  - Codes performed         DEC520Q-101A-Team06-RScript.R
-  - Final report            Final Project Report.pdf
+  - Original dataset: bank-full.csv
+  - Codes performed: DEC520Q-101A-Team06-RScript.R
+  - Final report: Final Project Report.pdf
 
 
 Models performed
